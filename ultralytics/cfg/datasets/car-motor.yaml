@@ -1,0 +1,10 @@
+path: /kaggle/working/Vehicle-Datasets-4
+
+train: /kaggle/working/Vehicle-Datasets-4/train/images
+
+val: /kaggle/working/Vehicle-Datasets-4/valid/images
+
+names:
+  0: motor
+  1: car
+
